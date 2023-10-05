@@ -3,8 +3,6 @@
 # 
 # Copyright (C) <YEAR/S> <AUTHOR>
 #
-# See NOTICE file for full copyright and license details.
-#
 
 <SHORT ONE SENTENCE PROJECT DESCRIPTION CONTAINING NAME.>
 
@@ -18,7 +16,7 @@ GPL-3.0-or-later license
 ----------------------------------------------------------------------
 
 # If single author for source project.
-<SOURCE PROJECT NAME> <OPTIONAL VERSION> <OPTIONAL SOURCE FILE PATH>
+<SOURCE PROJECT NAME> - <OPTIONAL VERSION> - <OPTIONAL SOURCE FILE PATH>
     Copyright (C) <YEAR/S> <AUTHOR>
 
 # Project and author copyright notice.
@@ -43,7 +41,7 @@ Apache-2.0 license
 ----------------------------------------------------------------------
 
 # If multiple 2-3 authors for source project.
-<SOURCE PROJECT NAME> <OPTIONAL VERSION> <OPTIONAL SOURCE FILE PATH>
+<SOURCE PROJECT NAME> - <OPTIONAL VERSION> - <OPTIONAL SOURCE FILE PATH>
     Copyright (C) <YEAR/S> <AUTHOR>
     Copyright (C) <YEAR/S> <AUTHOR>
 
@@ -64,7 +62,7 @@ MIT license
 ----------------------------------------------------------------------
 
 # If multiple 4 or more authors for source project.
-<SOURCE PROJECT NAME> <OPTIONAL VERSION> <OPTIONAL SOURCE FILE PATH>
+<SOURCE PROJECT NAME> - <OPTIONAL VERSION> - <OPTIONAL SOURCE FILE PATH>
     Copyright (C) <YEAR/S> <PRIMARY AUTHOR> ET AL.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
